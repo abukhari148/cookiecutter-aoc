@@ -1,0 +1,6 @@
+{
+    "day": "day{% now 'local', '%d' %}",
+    "_extensions": [
+        "jinja2_time.TimeExtension"
+    ]
+}
