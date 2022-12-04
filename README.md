@@ -1,1 +1,1 @@
-Advent of code Cookicutter template
+Cookiecutter template for Adevent of code problems.
