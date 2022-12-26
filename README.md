@@ -1,1 +1,1 @@
-Cookiecutter template for Advent of code problems.
+Repo to store cookiecutter templates.
